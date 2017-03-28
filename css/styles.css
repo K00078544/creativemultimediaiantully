@@ -43,7 +43,7 @@ header a.logo {
     display: block;
     width: 180px;
     height: 140px;
-    background: url(../img/kONG%20HIFI%20LOGO.svg) no-repeat 0 0; background-size: contain; 
+    background: url(../img/Boxlogo.png) no-repeat 0 0; background-size: contain; 
     top: 5px; left: 20px;
 }
 header a.logo span { display: none;}
