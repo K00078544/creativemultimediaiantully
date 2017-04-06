@@ -49,7 +49,7 @@ header a.logo {
 header a.logo span { display: none;}
 header div.hero { position: absolute; width: 70%; top: 50px; left: 30%; }
 header div.hero h1 { line-height: 1em; margin: 0 0 40px 0; }
-header div.hero h1 span { color: firebrick;}
+header div.hero h1 span { color:cadetblue;}
 
 /* Button */
 a.btn {
@@ -67,7 +67,7 @@ article h4 .authorDate {
     font-style: italic;
 }
 article h4 .review {
-    color: darkred;
+    color: cadetblue;
     font-style:normal;
 }
 article h3 .articleTitle {
@@ -79,24 +79,24 @@ h2 .sectionTitle {
     font-family: sans-serif;
     font-size: 30px;
     font-weight: bolder;
-    color: firebrick;
+    color: cadetblue;
 }
 
 /* Section Latest*/
 
 section.latest .article1{
     padding: 0 20px 0 355px;
-    background: url(../img/tannoy_legacy_2.jpg) no-repeat 0 5px;
+    background: url(../img/Fruit%20Bowl.png)  no-repeat 0 5px;
     min-height: 250px;
 }
 section.latest .article2{
     padding: 0 20px 0 355px;
-    background: url(../img/beatles%20Turntable.png) no-repeat 0 5px;
+    background: url(../img/Escape%20Logo.png) no-repeat 0 5px;
     min-height: 250px;
 }
 section.latest .article3{
     padding: 0 20px 0 355px;
-    background: url(../img/ballfinger%20reel-to-reel.jpg) no-repeat 0 5px;
+    background: url(../img/CV%20image.jpg) no-repeat 0 5px;
     min-height: 250px;
 }
 section.latest .article4{
@@ -225,7 +225,7 @@ nav ul li a {
 nav ul li a:hover {
     color: #ffffff;
     text-decoration: none;
-    background-color: darkred;
+    background-color: cadetblue;
 }
 
 
@@ -257,7 +257,7 @@ li a:link, a:visited {
     display: inline-block;    
 }
 li a:hover, a:active {
-    background-color: darkred;
+    background-color: cadetblue;
 }
 li a:link {
     color:#fff;
@@ -269,7 +269,7 @@ li a:hover {
     color:#444;
         }
 li a:active {
-    color: darkred;
+    color: cadetblue;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
          }
 
@@ -304,7 +304,7 @@ li a:active {
     display: block;
 }
 .dropdown-content a:hover {
-    background-color: darkred;
+    background-color: cadetblue;
     color: white;
 }
 .dropdown:hover .dropdown-content {
@@ -314,10 +314,10 @@ li a:active {
      font-size: 1.2em;
 }
 .dropdown:hover .dropbtn {
-    background-color: darkred;
+    background-color: cadetblue;
 }
 .referance {
-    color:darksalmon;
+    color:cadetblue;
     font-size: 0.5em;
 }
 
@@ -403,7 +403,7 @@ i.fa-github{
 }
 
 .red {
-    color: firebrick;
+    color: cadetblue;
 }
 
 
