@@ -13,6 +13,13 @@ h4 {margin: 0 0 1.5em 0; font-size: 1em; font-weight:700; }
 
 
 /* Container */ 
+
+.profilePic {
+    display: block;
+    margin: auto;
+    width: 60%;
+}
+
 #page{
     margin: 0 auto;
     max-width: 1200px;
