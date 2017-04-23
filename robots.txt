@@ -1,0 +1,4 @@
+User-agent: googlebot
+disallow:
+
+sitemap:https://k00078544.github.io/creativemultimediaiantully/sitemap.xml
